@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ToDoListAPI</name>
+    </assembly>
+    <members>
+        <member name="M:ToDoListAPI.Controllers.TasksController.FindAll">
+            <summary>
+            Obtém todas as tasks
+            </summary>
+        </member>
+        <member name="M:ToDoListAPI.Controllers.TasksController.FindById(System.Int64)">
+            <summary>
+            Obtém uma task especifíca através do Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ToDoListAPI.Controllers.TasksController.Create(ToDoListAPI.Data.ValueObjects.TaskVO)">
+            <summary>
+            Cria uma nova task
+            </summary>
+            <param name="vo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ToDoListAPI.Controllers.TasksController.Update(ToDoListAPI.Data.ValueObjects.TaskVO,System.Int64)">
+            <summary>
+            Atualiza uma task já existente, utilizando do id para encontra-la 
+            </summary>
+            <param name="vo"></param>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ToDoListAPI.Controllers.TasksController.Delete(System.Int64)">
+            <summary>
+            Deleta uma task existente pelo id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

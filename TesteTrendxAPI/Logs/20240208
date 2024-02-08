@@ -1,0 +1,13 @@
+2024-02-08 15:32:29.542 -03:00 [INF] Now listening on: https://localhost:4001
+2024-02-08 15:32:29.622 -03:00 [INF] Now listening on: http://localhost:4000
+2024-02-08 15:32:29.631 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-08 15:32:29.633 -03:00 [INF] Hosting environment: Development
+2024-02-08 15:32:29.637 -03:00 [INF] Content root path: C:\Users\VITANDRA\OneDrive - Capgemini\Desktop\TesteTrendx\TesteTrendx\TesteTrendxAPI
+2024-02-08 15:32:36.801 -03:00 [INF] Request starting HTTP/2 GET https://localhost:4001/swagger/index.html - -
+2024-02-08 15:32:37.490 -03:00 [INF] Request finished HTTP/2 GET https://localhost:4001/swagger/index.html - - - 200 - text/html;charset=utf-8 698.6855ms
+2024-02-08 15:32:37.494 -03:00 [INF] Request starting HTTP/2 GET https://localhost:4001/_vs/browserLink - -
+2024-02-08 15:32:37.494 -03:00 [INF] Request starting HTTP/2 GET https://localhost:4001/_framework/aspnetcore-browser-refresh.js - -
+2024-02-08 15:32:37.504 -03:00 [INF] Request finished HTTP/2 GET https://localhost:4001/_framework/aspnetcore-browser-refresh.js - - - 200 13758 application/javascript;+charset=utf-8 10.5113ms
+2024-02-08 15:32:37.614 -03:00 [INF] Request finished HTTP/2 GET https://localhost:4001/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 120.2026ms
+2024-02-08 15:32:37.687 -03:00 [INF] Request starting HTTP/2 GET https://localhost:4001/swagger/v1/swagger.json - -
+2024-02-08 15:32:37.959 -03:00 [INF] Request finished HTTP/2 GET https://localhost:4001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 271.5627ms
